@@ -1,5 +1,5 @@
 # SPA-AJAX
-### Single page application in JS, built with Gulp
+### Single page application in JS, built with Gulp.
 
 #### libraries that was used:
 * gulp-htmlmin
