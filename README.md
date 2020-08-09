@@ -2,7 +2,7 @@
 ### Single page application in JS, built with Gulp.
 
 #### libraries that was used:
-* gulp-htmlmin
+* Gulp-htmlmin
 * gulp-uglifycss
 * gulp-concat
 * gulp-uglify
