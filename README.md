@@ -3,7 +3,7 @@
 
 #### libraries that was used:
 * Gulp-htmlmin
-* gulp-uglifycss
+* Gulp-uglifycss
 * gulp-concat
 * gulp-uglify
 * gulp-sass
