@@ -4,7 +4,7 @@
 #### libraries that was used:
 * Gulp-htmlmin
 * Gulp-uglifycss
-* gulp-concat
+* Gulp-concat
 * gulp-uglify
 * gulp-sass
 * gulp-babel
