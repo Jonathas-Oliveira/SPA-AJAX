@@ -5,7 +5,7 @@
 * Gulp-htmlmin
 * Gulp-uglifycss
 * Gulp-concat
-* gulp-uglify
+* Gulp-uglify
 * gulp-sass
 * gulp-babel
 * gulp-webserver
