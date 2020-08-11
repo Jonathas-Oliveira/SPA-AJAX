@@ -7,7 +7,7 @@
 * Gulp-concat
 * Gulp-uglify
 * Gulp-sass
-* gulp-babel
+* Gulp-babel
 * gulp-webserver
 * gulp-watch
 
