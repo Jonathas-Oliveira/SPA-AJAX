@@ -6,7 +6,7 @@
 * Gulp-uglifycss
 * Gulp-concat
 * Gulp-uglify
-* gulp-sass
+* Gulp-sass
 * gulp-babel
 * gulp-webserver
 * gulp-watch
