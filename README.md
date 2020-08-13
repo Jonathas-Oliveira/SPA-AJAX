@@ -8,7 +8,7 @@
 * Gulp-uglify
 * Gulp-sass
 * Gulp-babel
-* gulp-webserver
+* Gulp-webserver
 * gulp-watch
 
 #### The final project
