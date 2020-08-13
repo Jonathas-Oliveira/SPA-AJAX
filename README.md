@@ -9,7 +9,7 @@
 * Gulp-sass
 * Gulp-babel
 * Gulp-webserver
-* gulp-watch
+* Gulp-watch
 
 #### The final project
 
